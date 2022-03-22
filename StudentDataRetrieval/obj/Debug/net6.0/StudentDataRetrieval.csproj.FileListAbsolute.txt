@@ -1,0 +1,15 @@
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\bin\Debug\net6.0\StudentDataRetrieval.exe
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\bin\Debug\net6.0\StudentDataRetrieval.deps.json
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\bin\Debug\net6.0\StudentDataRetrieval.runtimeconfig.json
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\bin\Debug\net6.0\StudentDataRetrieval.dll
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\bin\Debug\net6.0\StudentDataRetrieval.pdb
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\net6.0\StudentDataRetrieval.csproj.AssemblyReference.cache
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\net6.0\StudentDataRetrieval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\net6.0\StudentDataRetrieval.AssemblyInfoInputs.cache
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\net6.0\StudentDataRetrieval.AssemblyInfo.cs
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\net6.0\StudentDataRetrieval.csproj.CoreCompileInputs.cache
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\net6.0\StudentDataRetrieval.dll
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\net6.0\refint\StudentDataRetrieval.dll
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\net6.0\StudentDataRetrieval.pdb
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\net6.0\StudentDataRetrieval.genruntimeconfig.cache
+C:\Users\gunnar_humphrey\source\repos\StudentDataRetrieval\StudentDataRetrieval\obj\Debug\net6.0\ref\StudentDataRetrieval.dll
